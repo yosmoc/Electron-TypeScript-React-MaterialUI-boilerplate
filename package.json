@@ -20,7 +20,8 @@
     "awesome-typescript-loader": "^3.4.1",
     "electron": "~1.8.2",
     "source-map-loader": "^0.2.3",
-    "typescript": "^2.7.2"
+    "typescript": "^2.7.2",
+    "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
     "@types/react": "^16.0.38",
